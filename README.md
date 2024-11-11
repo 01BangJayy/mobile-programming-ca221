@@ -1,6 +1,9 @@
 # myapp
 
-A new Flutter project.
+Nama : I Putu Gede Agus Arya Jaya Negara
+NIM : 220010137
+
+
 
 ## Getting Started
 
