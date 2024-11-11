@@ -3,6 +3,7 @@
 Nama : I Putu Gede Agus Arya Jaya Negara
 NIM : 220010137
 
+![Screenshot 2024-11-11 111938](https://github.com/user-attachments/assets/f743314e-0b5a-4161-b079-c86b55e85ec8)
 
 
 ## Getting Started
