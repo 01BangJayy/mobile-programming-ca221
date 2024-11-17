@@ -1,6 +1,8 @@
 # myapp
 
-A new Flutter project.
+I Putu Gede Agus Arya Jaya Negara
+220010137
+![Screenshot (184)](https://github.com/user-attachments/assets/c345a652-33ea-4ec2-865b-fcb25ea783c5)
 
 ## Getting Started
 
